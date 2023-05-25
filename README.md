@@ -2,8 +2,9 @@
 -meu nome é **helisa**
 
 -estou estudando  na alura
--estou me desenvolvendo na limguagem JavaScript
--utiliso esse espaço para minha organis e compartilhamento dos meus projetos desenvolvidos
+-estou me desenvolvendo na limguagem 
+
+-utiliso esse espaço para minha organis e compartilhamento dos meus projetos desenvolvido
 
 ###   Você entrar em contato comigo 📧 
 
