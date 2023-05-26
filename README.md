@@ -13,4 +13,3 @@ helisa.freitas@escola.pr.gov.br
 @helisa_01
 
 ![](https://media.tenor.com/ulPwx0qGnsgAAAAC/bom-dia-valtatu%C3%AD.gif)
-
