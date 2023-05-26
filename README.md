@@ -2,6 +2,7 @@
 -meu nome é **helisa**
 
 -estou estudando  na [alura](https://www.alura.com.br)
+
 -estou me desenvolvendo na limguagem
 
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
